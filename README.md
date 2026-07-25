@@ -12,7 +12,7 @@ This space is dedicated to the development, prototyping, and documentation of in
 | :--- | :--- | :--- | :--- |
 | 💣 **CS:GO C4 Replica** | Functional replica of the Counter-Strike C4 bomb featuring a countdown timer, dynamic sound effects, and status LEDs. | Arduino, C++, 7-Segment Display, Buzzer | 
 
-[View Project](./cs-c4-bomb) |
+[View Project] https://github.com/user-attachments/assets/99710876-59b4-4b51-8422-9b33e7552720
 
 ---
 
